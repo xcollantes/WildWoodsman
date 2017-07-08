@@ -1,22 +1,22 @@
-Wild Woodsman - The Video Game
+# Wild Woodsman - The Video Game
 -----------------
-#INSTRUCTIONS: 
-CHECK SOUND ON COMPUTER AND OPEN "WILDWOODSMAN.JAR" FILE TO PLAY GAME
+### INSTRUCTIONS: 
+##### CHECK SOUND ON COMPUTER AND OPEN "WILDWOODSMAN.JAR" FILE TO PLAY GAME
 
-CONTROLS: 
+### CONTROLS: 
 'WASD' keys for movements,
 Spacebar for Action,
 Arrow keys for cycling through inventory (Bag for inventory and tools symbol for construct inventory), 
 '[' and ']' keys for cycle music playlist 
 
-SYSTEM REQUIREMENTS:
+### SYSTEM REQUIREMENTS:
 COMPUTER
 JAVA SE
 KEYBOARD
 
 
 **************************
-#DEVELOPER CREDITS
+### DEVELOPER CREDITS
 --------------------------
 Cameron Anderson
 Kyle Hashimoto
