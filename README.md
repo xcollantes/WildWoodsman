@@ -6,10 +6,14 @@
 2. OPEN "WILDWOODSMAN.JAR" FILE TO PLAY GAME
 
 ### CONTROLS: 
-'WASD' keys for movements,     <br/>
-Spacebar for Action,      <br/>
-Arrow keys for cycling through inventory (Bag for inventory and tools symbol for construct inventory),    <br/>
-'[' and ']' keys for cycle music playlist     <br/>
+'WASD' keys for movements,     <br/><br/>
+'[' and ']' keys for cycle music playlist,       <br/><br/>
+Press UP and DOWN arrow to select BAG or BUILD,    <br/>
+Press LEFT and RIGHT arrow to cycle through BUILD or BAG items.     <br/><br/>
+(BAG selected)                  <br/>
+![Bag](https://github.com/xcollantes/WildWoodsman/blob/master/lib/screenshots/BagSelectedScreenShot.png)      <br/>
+(BUILD selected)                  <br/>
+![Build](https://github.com/xcollantes/WildWoodsman/blob/master/lib/screenshots/BuildSelectedScreenShot.png)    <br/><br/>
 
 ### SYSTEM REQUIREMENTS:
 COMPUTER  <br/>
