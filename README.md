@@ -1,6 +1,6 @@
-#Wild Woodsman - The Video Game
-
-##INSTRUCTIONS: 
+Wild Woodsman - The Video Game
+-----------------
+#INSTRUCTIONS: 
 CHECK SOUND ON COMPUTER AND OPEN "WILDWOODSMAN.JAR" FILE TO PLAY GAME
 
 CONTROLS: 
