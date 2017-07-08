@@ -1,5 +1,5 @@
 # Wild Woodsman - The Video Game
-
+![TitleScreen](https://github.com/xcollantes/WildWoodsman/blob/master/lib/screenshots/Title.png)
 
 ### INSTRUCTIONS: 
 1. CHECK SOUND ON COMPUTER 
