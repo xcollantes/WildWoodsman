@@ -6,15 +6,15 @@
 2. OPEN "WILDWOODSMAN.JAR" FILE TO PLAY GAME
 
 ### CONTROLS: 
-- 'WASD' keys for movements,
-- Spacebar for Action,
-- Arrow keys for cycling through inventory (Bag for inventory and tools symbol for construct inventory),
-- '[' and ']' keys for cycle music playlist 
+'WASD' keys for movements,     <br/>
+Spacebar for Action,      <br/>
+Arrow keys for cycling through inventory (Bag for inventory and tools symbol for construct inventory),    <br/>
+'[' and ']' keys for cycle music playlist     <br/>
 
 ### SYSTEM REQUIREMENTS:
-- COMPUTER
-- JAVA SE
-- KEYBOARD
+COMPUTER  <br/>
+JAVA SE   <br/>
+KEYBOARD  <br/>
 
 ### DEVELOPER CREDITS
 Cameron Anderson <br/>
